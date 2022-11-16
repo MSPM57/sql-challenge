@@ -27,13 +27,13 @@ An ERD of the tables has been created using QuickDBD. Please see file QUICKDBD-f
 Data Anaysis: (see these files)
 1. List employee number, last name, first name, sex and salary of each employee
     see  Query to list the employee information for Data Analysis 1  
-    see  Analysis 1 as the sql file of the query
+    see  Analysis 1 as the sql file of the query - I add a sort desc on salary
 2. List the first name, last name and hire date for employees hired in 1986
-    see Query 2 to get employee information for employees hired in 1986.png
+    see Query 2 to get employee information for employees hired in 1986.png  100,00 EMPLOYESS OUR OF 36,150 ARE SENIORS!
     see Analysis 2 as the sql file of the query
 3. List the manager of each department along with their department number department name, employee number, last name and first name
     see Analysis 3 Manager of Each Department with Department and Employee Information.png
-    see Analysis 3 as the sql file of the query
+    see Analysis 3 as the sql file of the query EACH DEPARTMENT HAS MORE THAN ONE MANAGER, SOMVE HAVE 4
 4. List the department number for each employee along with that employee's employee number, last name, first name, and department name
     see Analysis 4 Department No for each employee .png
     see Analysis 4 as the sql file for the query
@@ -49,3 +49,19 @@ Data Anaysis: (see these files)
 8. List the frequency counts in descending order of all employee last names (how many employee share each last name)
     see For the last Analysis to see how many employees share a last name.png
     see Analysis 8 as teh sql file for the query
+
+Obserations-  I have a lot of concerns:
+
+1. 100,00 employees are senior based on hire_date of 1986
+2. Departments have 2 - 4 Managers 
+3. There are 20 employee with the same last name of Hercules so either there are family members working or data is inaccurate
+4. Less than half the employee are in Sales and Development.
+5. A lot of employees have the same last name - data is suspicious
+6. Some employees were in more than one department, valid or is cleanup needed?
+7. The mininum salary was $40,000 and the highest salary $129,492. What was strange is 95,346 employees are paid $40,000.
+8. The average salary was $ 48,564 for Assitant Engineers and $ 58,550 for Senior Staff.
+
+
+
+
+   
