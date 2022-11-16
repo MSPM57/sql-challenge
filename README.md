@@ -62,6 +62,9 @@ Obserations-  I have a lot of concerns:
 8. The average salary was $ 48,564 for Assitant Engineers and $ 58,550 for Senior Staff.
 
 
+See jupyter notebook code, for bonus, entitled programming_db.ipynb
+As part of bonus see histogram of employee grouped by salary - histogram showing salaries spread for employee grouped by salary.png
+As part of bonus see barchart for salary by title - BarChart Salary by Title.png
 
 
    
